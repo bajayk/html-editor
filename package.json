@@ -1,0 +1,24 @@
+{
+  "name": "@bajayk/html-editor",
+  "version": "1.0.0",
+  "description": "A lightweight and efficient HTML editor component for your web applications. This npm package provides a simple yet powerful way to allow users to create and modify HTML content directly within your interface.",
+  "keywords": [
+    "htmleditor",
+    "html-editor"
+  ],
+  "homepage": "https://github.com/bajayk/html-editor#readme",
+  "bugs": {
+    "url": "https://github.com/bajayk/html-editor/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bajayk/html-editor.git"
+  },
+  "license": "ISC",
+  "author": "Ajay Badgujar",
+  "type": "module",
+  "main": "html-editor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
